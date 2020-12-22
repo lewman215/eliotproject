@@ -4,32 +4,32 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ^y::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\yesShort
+Run, bats\shortcuts\yesShort
 return
 ^n::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\noShort
+Run, bats\shortcuts\noShort
 return
 ^j::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\jacksimpShort
+Run, bats\shortcuts\jacksimpShort
 return
 ^o::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\ohShort
+Run, bats\shortcuts\ohShort
 return
 ^s::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\sorryShort
+Run, bats\shortcuts\sorryShort
 return
 ^c::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\chillingShort
+Run, bats\shortcuts\chillingShort
 return
 ^h::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\helpShort
+Run, bats\shortcuts\helpShort
 return
 ^d::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\dangerShort
+Run, bats\shortcuts\dangerShort
 return
 ^w::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\wipeShort
+Run, bats\shortcuts\wipeShort
 return
 ^T::
-Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\meow.mp3
+Run, meow.mp3
 return
