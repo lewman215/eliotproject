@@ -15,3 +15,6 @@ return
 ^o::
 Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\ohShort
 return
+^s::
+Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\sorryShort
+return
