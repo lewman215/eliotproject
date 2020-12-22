@@ -31,5 +31,5 @@ return
 Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\wipeShort
 return
 ^T::
-Run, C:\Users\lehar\Desktop\eliotProject\eliotproject\meow.mp3
+Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\meow.mp3
 return
