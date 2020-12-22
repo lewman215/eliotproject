@@ -1,1 +1,1 @@
-cscript "..\Jampal\ptts.vbs" -u "..\textfiles\werechillign.txt" -r -5
+cscript "Jampal\ptts.vbs" -u "textfiles\werechillign.txt" -r -5
