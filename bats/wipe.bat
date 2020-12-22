@@ -1,1 +1,1 @@
-cscript "..\Jampal\ptts.vbs" -u "..\textfiles\wipe.txt"
+cscript "Jampal\ptts.vbs" -u "textfiles\wipe.txt"

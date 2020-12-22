@@ -1,1 +1,1 @@
-cscript "..\Jampal\ptts.vbs" -u "..\textfiles\help.txt"
+cscript "Jampal\ptts.vbs" -u "textfiles\help.txt"
