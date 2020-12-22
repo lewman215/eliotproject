@@ -21,3 +21,12 @@ return
 ^c::
 Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\chillingShort
 return
+^h::
+Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\helpShort
+return
+^d::
+Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\dangerShort
+return
+^w::
+Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\wipeShort
+return
