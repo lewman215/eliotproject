@@ -18,3 +18,6 @@ return
 ^s::
 Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\sorryShort
 return
+^c::
+Run, C:\Users\Eliot-PC\Desktop\hotkeystuff\bats\shortcuts\chillingShort
+return
