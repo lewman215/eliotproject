@@ -1,1 +1,1 @@
-pyhton goteem.py
+python goteem.py
