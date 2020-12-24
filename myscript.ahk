@@ -30,6 +30,6 @@ return
 ^w::
 Run, bats\wipe, , Min
 return
-^T::
+^t::
 Run, meow.mp3
 return
