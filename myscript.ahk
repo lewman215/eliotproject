@@ -33,3 +33,9 @@ return
 Numpad1::
 Run, bats\jeff, , Hide
 return
+Numpad2::
+Run, bats\lightsoff, , Hide
+return
+Numpad3::
+Run, bats\bababooey, , Hide
+return
