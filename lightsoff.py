@@ -1,6 +1,6 @@
 import winsound 
   
-print("Playing the file 'lightoff.wav'") 
+print("Playing the file 'soundbites\lightoff.wav'") 
   
 # winsound.PlaySound('filename', flag) 
-winsound.PlaySound('lightoff.wav', winsound.SND_FILENAME)        
+winsound.PlaySound('soundbites\lightoff.wav', winsound.SND_FILENAME)        
