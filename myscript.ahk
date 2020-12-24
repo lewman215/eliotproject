@@ -19,6 +19,6 @@ return
 Numpad5::
 Run, bats\failed, , Hide
 return
-Numpad6::
+Numpad7::
 Run, bats\goteem, , Hide
 return
