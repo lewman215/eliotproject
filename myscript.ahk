@@ -31,5 +31,5 @@ return
 Run, bats\wipe, , Hide
 return
 Numpad1::
-Run, bats\soundboard, , Hide
+Run, bats\jeff, , Hide
 return
