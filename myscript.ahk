@@ -25,6 +25,12 @@ return
 Numpad7::
 Run, python pythonStuff\seinfield.py, , Hide
 return
+Numpad8::
+Run, python pythonStuff\wow.py, , Hide
+return
+Numpad9::
+Run, python pythonStuff\nfdl.py, , Hide
+return
 ::c::
 Run, bats\chilling.bat, , Hide
 return
