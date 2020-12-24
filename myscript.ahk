@@ -5,23 +5,50 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
 Numpad1::
-Run, bats\jeff, , Hide
+Run, python pythonStuff\jeff.py, , Hide
 return
 Numpad2::
-Run, bats\lightsoff, , Hide
+Run, python pythonStuff\lightsoff.py, , Hide
 return
 Numpad3::
-Run, bats\bababooey, , Hide
+Run, python pythonStuff\bababooey.py, , Hide
 return
 Numpad4::
-Run, bats\curb, , Hide
+Run, python pythonStuff\curb.py, , Hide
 return
 Numpad5::
-Run, bats\failed, , Hide
+Run, python pythonStuff\failed.py, , Hide
 return
 Numpad6::
-Run, bats\goteem, , Hide
+Run, python pythonStuff\goteem.py, , Hide
 return
 Numpad7::
-Run, bats\seinfield, , Hide
+Run, python pythonStuff\seinfield.py, , Hide
+return
+::c::
+Run, bats\chilling.bat, , Hide
+return
+::d::
+Run, bats\danger.bat, , Hide
+return
+::h::
+Run, bats\help.bat, , Hide
+return
+::j::
+Run, bats\jacksimp.bat, , Hide
+return
+::n::
+Run, bats\no.bat, , Hide
+return
+::o::
+Run, bats\oh.bat, , Hide
+return
+::s::
+Run, bats\sorry.bat, , Hide
+return
+::w::
+Run, bats\wipe.bat, , Hide
+return
+::y::
+Run, bats\yes.bat, , Hide
 return
