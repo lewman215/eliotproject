@@ -13,3 +13,12 @@ return
 Numpad3::
 Run, bats\bababooey, , Hide
 return
+Numpad4::
+Run, bats\curb, , Hide
+return
+Numpad5::
+Run, bats\failed, , Hide
+return
+Numpad6::
+Run, bats\curb, , Hide
+return
