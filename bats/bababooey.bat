@@ -1,1 +1,1 @@
-python py\baba.py
+python ..\py\baba.py
