@@ -31,6 +31,9 @@ return
 Numpad9::
 Run, python pythonStuff\nfdl.py, , Hide
 return
+Numpad0::
+Run, python pythonStuff\laugh.py, , Hide
+return
 ::c::
 Run, bats\chilling.bat, , Hide
 return
