@@ -20,5 +20,5 @@ Numpad5::
 Run, bats\failed, , Hide
 return
 Numpad6::
-Run, bats\curb, , Hide
+Run, bats\goteem, , Hide
 return
