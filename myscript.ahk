@@ -19,6 +19,9 @@ return
 Numpad5::
 Run, bats\failed, , Hide
 return
-Numpad7::
+Numpad6::
 Run, bats\goteem, , Hide
+return
+Numpad7::
+Run, bats\seinfield, , Hide
 return
