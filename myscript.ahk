@@ -4,31 +4,31 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ^y::
-Run, bats\yes, , Min
+Run, bats\yes, , Hide
 return
 ^n::
-Run, bats\no, , Min
+Run, bats\no, , Hide
 return
 ^j::
-Run, bats\jacksimp, , Min
+Run, bats\jacksimp, , Hide
 return
 ^o::
-Run, bats\oh, , Min
+Run, bats\oh, , Hide
 return
 ^s::
-Run, bats\sorry, , Min
+Run, bats\sorry, , Hide
 return
 ^c::
-Run, bats\chilling, , Min
+Run, bats\chilling, , Hide
 return
 ^h::
-Run, bats\help, , Min
+Run, bats\help, , Hide
 return
 ^d::
-Run, bats\danger, , Min
+Run, bats\danger, , Hide
 return
 ^w::
-Run, bats\wipe, , Min
+Run, bats\wipe, , Hide
 return
 ^T::
 Run, meow.mp3
