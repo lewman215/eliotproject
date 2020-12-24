@@ -30,6 +30,6 @@ return
 ^w::
 Run, bats\wipe, , Hide
 return
-^T::
-Run, meow.mp3
+Numpad1::
+Run, bats\soundboard, , Hide
 return
