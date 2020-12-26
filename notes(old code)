@@ -1,0 +1,27 @@
+::c::
+Run, bats\chilling.bat, , Hide
+return
+::d::
+Run, bats\danger.bat, , Hide
+return
+::h::
+Run, bats\help.bat, , Hide
+return
+::j::
+Run, bats\jacksimp.bat, , Hide
+return
+::n::
+Run, bats\no.bat, , Hide
+return
+::o::
+Run, bats\oh.bat, , Hide
+return
+::s::
+Run, bats\sorry.bat, , Hide
+return
+::w::
+Run, bats\wipe.bat, , Hide
+return
+::y::
+Run, bats\yes.bat, , Hide
+return
